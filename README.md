@@ -22,3 +22,6 @@ Arbitrary version:
 
     curl -sSL https://git.io/JfhdU | bash -s 5.4.1
 
+# Other Tools
+
+Tired of keep typing './gradlew' or '../gradlew'? Try [gdub](https://www.gdub.rocks/).
